@@ -4,7 +4,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
-    """Application configuration loaded from environment variables."""
+    """Application configuration."""
 
     app_name: str = "Palm Mind RAG API"
     app_env: str = "development"
@@ -24,8 +24,8 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(
         env_file=".env",
         env_file_encoding="utf-8",
-        case_sensitive=False,
-     )
+        extra="ignore",
+    )
 
 
 @lru_cache
