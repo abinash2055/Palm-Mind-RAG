@@ -1,0 +1,13 @@
+Palm Mind AI Candidate Information
+
+Abinash is a software developer with experience in Python,
+FastAPI, REST APIs, PostgreSQL, Git and backend development.
+
+He has worked on projects involving API development,
+database integration and software testing.
+
+His Python experience includes FastAPI, SQLAlchemy,
+REST API development and automated testing.
+
+He is interested in backend development and AI-related
+applications.
