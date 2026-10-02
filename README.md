@@ -1,6 +1,5 @@
 # Palm Mind AI — Conversational RAG Backend
----
----
+===
 
 ## Overview
 ---
@@ -141,8 +140,7 @@ The application provides:
     - PostgresSQL
     - Redis
     - Qdrant
-
-...
+    
 
 ## Environment Variables
 ---
