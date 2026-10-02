@@ -10,6 +10,7 @@ venv/
 # Environment
 .env
 .env.example
+.env.docker
 
 # IDE
 .vscode/

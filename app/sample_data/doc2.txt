@@ -1,0 +1,16 @@
+Company Interview Guidelines
+
+This document contains information about our interview process.
+
+The interview typically consists of three rounds:
+1. Technical screening - focuses on data structures and algorithms
+2. System design - evaluates architecture and scalability knowledge
+3. Behavioral interview - assesses cultural fit and communication skills
+
+Candidates should prepare by:
+- Practicing coding problems on platforms like LeetCode
+- Reviewing system design patterns
+- Preparing stories about past projects
+
+The interview is usually scheduled for 45-60 minutes per round.
+We use video conferencing tools for remote interviews.
